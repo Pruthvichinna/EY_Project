@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+streamlit
+fpdf2
+python-multipart
+requests
