@@ -4,7 +4,7 @@ import os
 import base64
 
 # Backend base URL
-BACKEND = "http://localhost:8000"
+BACKEND = "https://agentic-backend-u1m1.onrender.com"
 
 st.set_page_config(page_title="Agentic AI Loan Officer", layout="wide")
 st.title("Agentic AI Loan Officer — Demo")
